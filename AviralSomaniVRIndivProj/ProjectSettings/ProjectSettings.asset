@@ -647,9 +647,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: c468cc6b-c50a-4fa1-be60-3fb48b3c911c
+  cloudProjectId: e654955e-c45a-49d7-bfa3-461451325bb3
   framebufferDepthMemorylessMode: 0
-  projectName: somaniaVRI
+  projectName: AviralSomaniVRIndivProj
   organizationId: vrindivs
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
